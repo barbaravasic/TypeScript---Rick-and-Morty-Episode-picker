@@ -1,0 +1,1 @@
+export const URL: string = 'https://api.tvmaze.com/singlesearch/shows?q=rick-&-morty&embed=episodes'
